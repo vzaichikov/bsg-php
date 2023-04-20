@@ -7,6 +7,11 @@
         "bsg-world",
         "sms"
     ],
+    "autoload": {
+        "files": [
+            "src/BSG.php"
+        ]
+    },
     "homepage": "https://github.com/bsgworld/bsg-php",
     "license": "MIT",
     "require-dev": {
