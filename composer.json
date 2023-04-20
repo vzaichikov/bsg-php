@@ -1,4 +1,14 @@
 {
+    "name": "vzaichikov/bsg-php",
+    "type": "library",
+    "description": "BSG Client Fork to use with composer via vsc repo",
+    "keywords": [
+        "bsg",
+        "bsg-world",
+        "sms"
+    ],
+    "homepage": "https://github.com/bsgworld/bsg-php",
+    "license": "MIT",
     "require-dev": {
         "phpunit/phpunit": "^5.7"
     }
